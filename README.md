@@ -1,5 +1,10 @@
 # Delta-de-Codes
 
+Turma B
+Grupo 5
+Usuário Insper: muterucoam
+
+
 Correções:
 FE1 - Delta de CoDes
 HTML: troquei algumas imagens que estavam com fundo branco por imagens com fundo transparente, fechei tags que estavam sem fechamento e fiz ajustes para os arquivos passarem no validador HTML. Eliminei todas as barras invertidas e barras antes da pasta nas imagens e no href.
